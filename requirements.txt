@@ -1,0 +1,4 @@
+PySide6
+Picamera2
+imagezmq
+numpy
